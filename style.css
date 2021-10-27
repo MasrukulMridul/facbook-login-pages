@@ -1,0 +1,103 @@
+body{
+    background-color: #f0f2f5;
+}
+ul{
+    list-style-type: none;
+    margin-left: 160px;
+}
+#li-1{
+    margin-top: 140px;
+    float:left;
+}
+h1{
+    color:#1877f2;
+    font-size: 75px;
+    margin-bottom: 10px;
+}
+h3{
+    font-size: 40px;
+    opacity: 0.8;
+    margin-top: 0px;
+}
+#li-2{
+    float:left;
+    margin-top: 120px;
+    margin-left: 70px;
+}
+div{
+    background-color: #ffffff;
+    width: 430px;
+    padding:21px;
+    border: 5px solid #f0f2f5;
+    margin-left: 150px;
+    padding-bottom: 25px;
+}
+input[type=text], input[type=password]{
+    border: 2px solid #dddfe2;
+    width: 420px;
+    padding: 15px;
+    font-size: 18px;
+    opacity: 0.8;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+#button-1{
+    background-color: #166fe5;
+    color: white;
+    width: 420px;
+    font-size: 24px;
+    padding: 10px;
+    border: 1px solid #166fe5;
+    border-radius: 8px;
+}
+#button-1:hover{
+    cursor:pointer;
+    opacity: 0.8;
+}
+#forget-pass{
+    color: #398af4;
+    text-decoration: none;
+    margin-left: 140px;
+    font-size: 17px;
+   margin-top: 20px;
+}
+#forget-pass:hover{
+    text-decoration: underline;
+}
+hr{
+    border: 1px solid #dddfe2;
+    margin-top: 16px;
+}
+#button-2{
+    background-color: #36a420;
+    color: white;
+    padding: 14px;
+    font-size: 19px;
+    margin-top: 15px;
+    margin-left: 115px;
+    border-radius: 8px;
+    border: 1px solid #36a420;
+    font-weight: bold;
+}
+#button-2:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+pre{
+    margin-left: 200px;
+    margin-top: 21px;
+}
+#a1{
+    font-weight: bold;
+    text-decoration:none;
+    font-size: 18px;
+    color: black;
+}
+#a1:hover{
+    text-decoration: underline;
+}
+b{
+    font-size: 14px;
+   margin-left: 8px;
+    
+}
